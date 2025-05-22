@@ -22,15 +22,15 @@
 
 🎓 NVIDIA Fundamentals of Deep Learning
 - learned how deep learning works through hands-on exercises in computer vision and natural language processing.
-- Trained deep learning models from scratch, to achieve highly accurate results
+- Trained deep learning models from scratch, to achieve highly accurate results.
 
 ---
 
 ## 🥅 Goals for 2025
 
-⏳ Learn Python
-⏳ Finish my Personal Portfolio website
-⏳ Complete compTIA Network+ exam
+⏳ **Learn Python**  
+⏳ **Finish my Personal Portfolio website**  
+⏳ **Complete compTIA Network+ exam**  
 
 ---
 
