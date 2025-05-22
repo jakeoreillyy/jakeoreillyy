@@ -8,6 +8,5 @@
 ## 🧠 About Me
 
 🎓I'm a **Computer Science student** with a passion for **Software Engineering, AI,** and **Cyber Security.**
-
 💹I enjoy creating new projects, problem solving, and continuously improving.
 
