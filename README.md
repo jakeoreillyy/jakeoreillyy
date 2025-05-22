@@ -20,16 +20,24 @@
 
 ## 📄 Certificates
 
+🎓 NVIDIA Fundamentals of Deep Learning
+- learned how deep learning works through hands-on exercises in computer vision and natural language processing.
+- Trained deep learning models from scratch, to achieve highly accurate results
+
 ---
 
-## 🥅 Current Goals
+## 🥅 Goals for 2025
+
+⏳ Learn Python
+⏳ Finish my Personal Portfolio website
+⏳ Complete compTIA Network+ exam
 
 ---
 
 ## 🤝 Get In Touch
 
-💬 I’m open to discussions im all regards.   
+📌 I’m open to discussions im all regards.   
 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sunny-patel-30b460204/)**!  
-✉️ Email: oreillyjake16@gmail.com
+📬 Email: oreillyjake16@gmail.com
 
 ---
