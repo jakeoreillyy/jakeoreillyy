@@ -31,6 +31,7 @@
 ⏳ **Learn Python**  
 ⏳ **Finish my Personal Portfolio website**  
 ⏳ **Complete compTIA Network+ exam**  
+⏳ **Begin a resume-quality project**
 
 ---
 
