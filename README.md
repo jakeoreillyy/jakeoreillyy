@@ -28,4 +28,8 @@
 
 ## 🤝 Get In Touch
 
+💬 I’m open to discussions im all regards.   
+🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sunny-patel-30b460204/)**!  
+✉️ Email: oreillyjake16@gmail.com
+
 ---
