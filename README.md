@@ -21,7 +21,7 @@
 
 ## 📄 Certificates
 
-### ✅ NVIDIA Fundamentals of Deep Learning
+#### ✅ NVIDIA Fundamentals of Deep Learning
 - learned how deep learning works through hands-on exercises in **computer vision** and **natural language processing**.
 - Trained and fine-tuned deep learning models from scratch, to achieve highly accurate results.
 
