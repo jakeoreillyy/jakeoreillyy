@@ -19,23 +19,23 @@
 
 ## ⛏️ Tech Stack
 
-### 🌍 Languages  
+### Languages  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40"/>](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### 🧱 Frameworks  
+### Frameworks  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>](https://getbootstrap.com/)
 
-### 🧰 Tools  
+### Tools  
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/>](https://git-scm.com/)
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40"/>](https://github.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40"/>](https://code.visualstudio.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40"/>](https://jupyter.org/)
 
-### ☁️ Cloud & DevOps  
+### Cloud & DevOps  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"/>](https://aws.amazon.com/)
 
 ---
