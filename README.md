@@ -35,7 +35,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40"/>](https://code.visualstudio.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40"/>](https://jupyter.org/)
 
-### Cloud & DevOps  
+### Cloud Technologies
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"/>](https://aws.amazon.com/)
 
 ---
