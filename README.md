@@ -18,31 +18,31 @@
 ## ⛏️ Tech Stack
 
 ### 🌍 Languages  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40"/>](https://en.wikipedia.org/wiki/C_(programming_language))  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40"/>](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 📚 Libraries & APIs  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-005571?style=for-the-badge&logo=python&logoColor=white)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/>](https://pandas.pydata.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>](https://numpy.org/)
+[<img src="https://cdn.worldvectorlogo.com/logos/python.svg" height="40"/>](https://docs.python-requests.org/en/latest/)
 
 ### 🧱 Frameworks  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>](https://getbootstrap.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40"/>](https://flask.palletsprojects.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>](https://reactjs.org/)
 
 ### 🧰 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/>](https://git-scm.com/)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40"/>](https://github.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40"/>](https://code.visualstudio.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40"/>](https://jupyter.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" height="40"/>](https://www.linux.org/)
 
 ### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"/>](https://aws.amazon.com/)
 
 ---
 
