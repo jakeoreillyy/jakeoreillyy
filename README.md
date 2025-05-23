@@ -8,9 +8,9 @@
 
 ## 🧠 About Me
 
-🎓I'm a **Computer Science student** based in Ireland, with a passion for all things **Technology.**  
-🔎Exploring **Software Engineering, AI, Cybersecurity,** and **Cloud Technologies.**  
-💹Continuously improving with the use of **personal Projects, Certificates,** and **Self-Learning.**  
+🎓I'm a **Computer Science student** based in Ireland with a passion for all things **Technology.**  
+🔎Currently exploring **Software Engineering**, **AI**, **Cybersecurity**, and **Cloud Technologies**.  
+💡Continuously learning through **personal Projects**, **Certifications,** and **Self-study**. 
 
 ---
 
@@ -20,9 +20,9 @@
 
 ## 📄 Certificates
 
-🎓 NVIDIA Fundamentals of Deep Learning
-- learned how deep learning works through hands-on exercises in computer vision and natural language processing.
-- Trained deep learning models from scratch, to achieve highly accurate results.
+### ✅ NVIDIA Fundamentals of Deep Learning
+- learned how deep learning works through hands-on exercises in **computer vision** and **natural language processing**.
+- Trained and fine-tuned deep learning models from scratch, to achieve highly accurate results.
 
 ---
 
@@ -39,6 +39,6 @@
 
 📌 I’m open to discussions im all regards.   
 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)  
-📬 Email: oreillyjake16@gmail.com
+📬 Email: **oreillyjake16@gmail.com**
 
 ---
