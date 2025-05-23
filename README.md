@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-🎓I'm a **Computer Science student** based in Ireland with a passion for all things **Technology.**  
+🎓 I'm a **Computer Science student** based in Ireland with a passion for all things **Technology.**  
 🔎Currently exploring **Software Engineering**, **AI**, **Cybersecurity**, and **Cloud Technologies**.  
 💡Continuously learning through **personal Projects**, **Certifications,** and **Self-study**.
 
@@ -64,7 +64,7 @@
 
 ## 🤝 Get In Touch
 
-📌 I’m open to discussions im all regards.   
+📌 I’m open to collaborations, feedback, or just connecting with like-minded people. 
 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)  
 📬 Email: **oreillyjake16@gmail.com**
 
