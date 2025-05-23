@@ -19,7 +19,7 @@
 
 ## ⛏️ Tech Stack
 
-### Languages  
+### Software Development Languages  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40"/>](https://www.python.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40"/>](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -29,7 +29,7 @@
 ### Frameworks  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>](https://getbootstrap.com/)
 
-### Tools  
+### Developer Tools  
 [<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/>](https://git-scm.com/)
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40"/>](https://github.com/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40"/>](https://code.visualstudio.com/)
@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakeoreillyy&theme=black-ice&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakeoreillyy&show_icons=true&theme=radical)](https://github.com/jakeoreillyy)
+[![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakeoreillyy&show_icons=true&theme=black-ice)](https://github.com/jakeoreillyy)
 
 ---
 
