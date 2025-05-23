@@ -2,7 +2,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Jeiri/)
 [![Resume](https://img.shields.io/badge/Resume-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1ecVymjMvAs4H9JK2sRCXKlQueaC7TRkQ/view?usp=sharing)
 
-# 👋 Hey there, I'm Jake O'Reilly!
+# 👋 Hello, I'm Jake O'Reilly!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=1000&color=8E44AD&width=435&lines=Computer+Scientist;Tech+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
 
 ---
