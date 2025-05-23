@@ -5,16 +5,13 @@
 # 👋 Hey there, I'm Jake O'Reilly!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=1000&color=1E9A00&width=435&lines=Computer+Scientist;Tech+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakeoreillyy&theme=black-ice&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 ---
 
 ## 🧠 About Me
 
 🎓I'm a **Computer Science student** based in Ireland with a passion for all things **Technology.**  
 🔎Currently exploring **Software Engineering**, **AI**, **Cybersecurity**, and **Cloud Technologies**.  
-💡Continuously learning through **personal Projects**, **Certifications,** and **Self-study**.  
-[![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakeoreillyy&show_icons=true&theme=radical)](https://github.com/jakeoreillyy)
+💡Continuously learning through **personal Projects**, **Certifications,** and **Self-study**.
 
 ---
 
@@ -30,12 +27,19 @@
 
 ---
 
-## 🥅 Goals for 2025
+## 🥅 Goals For 2025
 
 ⏳ **Learn Python**  
 ⏳ **Finish my Personal Portfolio website**  
 ⏳ **Complete compTIA Network+ exam**  
 ⏳ **Begin a resume-quality project**
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakeoreillyy&theme=black-ice&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakeoreillyy&show_icons=true&theme=radical)](https://github.com/jakeoreillyy)
 
 ---
 
