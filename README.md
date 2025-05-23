@@ -13,7 +13,8 @@
 
 🎓I'm a **Computer Science student** based in Ireland with a passion for all things **Technology.**  
 🔎Currently exploring **Software Engineering**, **AI**, **Cybersecurity**, and **Cloud Technologies**.  
-💡Continuously learning through **personal Projects**, **Certifications,** and **Self-study**. 
+💡Continuously learning through **personal Projects**, **Certifications,** and **Self-study**.  
+[![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakeoreillyy&show_icons=true&theme=radical)](https://github.com/jakeoreillyy)
 
 ---
 
