@@ -18,11 +18,11 @@
 ## ⛏️ Tech Stack
 
 ### 🌍 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40">](https://www.python.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40"/>](https://en.wikipedia.org/wiki/C_(programming_language))  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 📚 Libraries & APIs  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
