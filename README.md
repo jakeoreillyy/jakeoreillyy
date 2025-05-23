@@ -38,7 +38,7 @@
 ## 🤝 Get In Touch
 
 📌 I’m open to discussions im all regards.   
-🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sunny-patel-30b460204/)**!  
+🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)  
 📬 Email: oreillyjake16@gmail.com
 
 ---
