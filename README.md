@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 🎓 I'm a **Computer Science student** based in Ireland with a passion for all things **Technology.**  
-🔎Currently exploring **Software Engineering**, **AI**, **Cybersecurity**, and **Cloud Technologies**.  
+🔎Currently exploring **Software Engineering**, **AI**, and **Cloud Technologies**.  
 💡Continuously learning through **personal Projects**, **Certifications,** and **Self-study**.
 
 ---
