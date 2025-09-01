@@ -48,15 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jakeoreillyy&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-[![Jake's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakeoreillyy&show_icons=true&theme=radical)](https://github.com/jakeoreillyy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakeoreillyy&layout=compact&theme=radical)](https://github.com/jakeoreillyy)
-
-
----
-
 ## 🤝 Get In Touch
 
 📌 I’m open to collaborations, feedback, or just connecting with like-minded people.  
