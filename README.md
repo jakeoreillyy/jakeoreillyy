@@ -40,22 +40,11 @@
 
 ---
 
-## 📄 Certificates
-
-### ✅ NVIDIA Fundamentals of Deep Learning  
-- Learned how deep learning works through hands-on exercises in **computer vision** and **natural language processing**.  
-- Trained and fine-tuned deep learning models to achieve accurate results.  
-- [Show Credential](https://drive.google.com/file/d/1w-dTj58qfvqVbMbgJVyFnBw58NnAixuV/view?usp=drive_link)
-
-
----
-
 ## 🥅 Goals For 2025
 
 ⏳ **Learn Python**  
-⏳ **Finish my Personal Portfolio website**  
-⏳ **Complete compTIA Network+ exam**  
-⏳ **Begin a resume-quality project**
+⏳ **Finish my Personal Portfolio website**   
+✅ **Start Leetcoding and Learning DSA**
 
 ---
 
