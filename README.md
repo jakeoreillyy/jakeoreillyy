@@ -5,7 +5,7 @@
 ---
 
 # 👋 Hello, I'm Jake O'Reilly!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=2500&pause=1000&color=2ECC71&width=435&lines=Computer+Science+Student;Software+Engineer;Full-Stack Developer; )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&size=30&duration=2500&pause=1000&color=2ECC71&width=435&lines=Computer+Science+Student;Software+Engineer;Full-Stack+Developer)](https://git.io/typing-svg)
 
 ---
 
