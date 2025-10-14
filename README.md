@@ -19,34 +19,34 @@
 
 ## ⛏️ Tech Stack
 
-### Languages  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40"/>](https://www.python.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png" height="40"/>](https://www.java.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40"/>](https://en.wikipedia.org/wiki/SQL)
+### Languages
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/>](https://react.dev/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40"/>](https://numpy.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40"/>](https://pandas.pydata.org/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/>](https://getbootstrap.com/)
+### Frameworks/Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-%23A91E50.svg?style=for-the-badge&logo=ejs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-0C344B.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Databases  
-[<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40"/>](https://www.mysql.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40"/>](https://www.postgresql.org/)
-
-### Developer Tools  
-[<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40"/>](https://git-scm.com/)
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40"/>](https://github.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="40"/>](https://code.visualstudio.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="40"/>](https://jupyter.org/)
-[<img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/linux.png" height="40"/>](https://www.linux.org/)
-
-### Cloud Technologies
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40"/>](https://aws.amazon.com/)
+### Tools/Platforms
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
