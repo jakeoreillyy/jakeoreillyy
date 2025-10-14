@@ -50,14 +50,6 @@
 
 ---
 
-## 🥅 Goals For 2025
-
-⏳ **Learn Python**  
-⏳ **Finish my Personal Portfolio website**   
-✅ **Start Leetcoding and Learning DSA**
-
----
-
 ## 🤝 Get In Touch
 
 📌 I’m open to collaborations, feedback, or just connecting with like-minded people.  
