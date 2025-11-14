@@ -45,7 +45,7 @@
 
 ## 🤝 Get In Touch
 
-📌 I’m open to collaborations, feedback, or just connecting with like-minded people.  
+📌 I’m open to collaborations, feedback, or just being mutuals with like-minded people.  
 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)  
 📬 Email: **oreillyjake16@gmail.com**
 
