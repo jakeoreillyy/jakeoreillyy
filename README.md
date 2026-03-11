@@ -1,5 +1,5 @@
 [![**LinkedIn**](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-o-reilly/)
-[![**Resume**](https://img.shields.io/badge/Resume-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/17n8Ui83Gvbdypc-lSEhEZHDEgO5se1Eg/view?usp=drive_link)
+[![**Resume**](https://img.shields.io/badge/Resume-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1HBNG-KBeUKxm3njfnKwc7fD7PQZqLH2v/view?usp=drive_link)
 [![**LeetCode**](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Jeiri/)
 
 ---
@@ -37,7 +37,6 @@
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/aws-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
