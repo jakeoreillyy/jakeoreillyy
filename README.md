@@ -1,5 +1,5 @@
 [![**LinkedIn**](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-o-reilly/)
-[![**Resume**](https://img.shields.io/badge/Resume-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1HBNG-KBeUKxm3njfnKwc7fD7PQZqLH2v/view?usp=drive_link)
+[![**Resume**](https://img.shields.io/badge/Resume-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1c7Ik1boVxBvy_VswRH64MOyR2umw8_nY/view?usp=drive_link)
 [![**LeetCode**](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Jeiri/)
 
 ---
