@@ -3,14 +3,14 @@
 
 ---
 
-# 👋 Hello, I'm Jake O'Reilly!
+# 👋 Hey, I'm Jake O'Reilly!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&size=30&duration=2500&pause=1000&color=2ECC71&width=435&lines=Computer+Science+Student;Software+Engineer;AI+Engineer;Backend+Engineer)](https://git.io/typing-svg)
 
 ---
 
 ## 🧠 About Me
 
-Third-year Computer Science student at TU Dublin, building backend 
+Second-year Computer Science student at TU Dublin, building backend 
 skills through personal projects and self-study. Currently working 
 through backend development with Python, with a focus on APIs, 
 databases, and clean system design.
