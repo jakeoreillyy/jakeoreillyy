@@ -1,19 +1,35 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jake-o-reilly/)
-[![Resume](https://img.shields.io/badge/Resume-E63946?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1g9zu01wSZb98pxBCtKQLQGVbjlgI6hR5/view?usp=sharing)
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=2ECC71&text=Jake%20O'Reilly&fontAlign=50&fontAlignY=35&fontSize=48&descAlign=50&descAlignY=65&fontColor=ffffff" alt="header" />
+</div>
 
----
+<!-- Social + Counters -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jake-o-reilly/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://drive.google.com/file/d/1g9zu01wSZb98pxBCtKQLQGVbjlgI6hR5/view?usp=sharing">
+    <img alt="Resume" src="https://img.shields.io/badge/Resume-E63946?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/jakeoreilly/">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+  </a>
+</p>
 
-# 👋 Hey, I'm Jake O'Reilly!
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&weight=600&size=30&duration=2500&pause=1000&color=2ECC71&width=435&lines=Computer+Science+Student;Software+Engineer;AI+Engineer;Backend+Engineer)](https://git.io/typing-svg)
+<!-- Typing Tagline -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Engineer;AI+Engineer;Backend+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About Me
-
-Second-year Computer Science student at TU Dublin, building backend 
-skills through personal projects and self-study. Currently working 
-through backend development with Python, with a focus on APIs, 
-databases, and clean system design.
+- 🎓 Computer Science @ TUD.
+- ⚙️ Building scalable backend systems.
+- 🐍 Focused on Python, APIs, databases, and clean system design.
+- 🚀 Currently exploring AI Engineering and TypeScript in full-stack development.
 
 ---
 
@@ -51,9 +67,20 @@ databases, and clean system design.
 
 ---
 
-## 🤝 Get In Touch
- 
-🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)  
-📬 Email: **oreillyjake16@gmail.com**
+## 📊 GitHub Stats
+
+<div align="center">
+  <img alt="Activity Graph"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=jakeoreillyy&theme=react&hide_border=true&area=true&color=2ECC71&line=2ECC71&point=ffffff" />
+</div>
 
 ---
+
+## 🤝 Get In Touch
+
+🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)
+📬 Email: **oreillyjake16@gmail.com**
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=2ECC71&fontColor=ffffff" alt="footer" />
+</div>
