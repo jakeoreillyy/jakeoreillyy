@@ -25,8 +25,8 @@
 
 ---
 
-## 🧠 About Me
-- 21 y/o from ireland, into ai and startups
+## 🧠 About
+Hey!👋 I'm Jake - into AI and Startups
 - 💼 swe intern @ speed-deed
 - 🎓 cs @ tud
 - 🏆 1st @ bofa swe programme · 3rd @ workday hackathon · top 1.5% @ hatch105.
