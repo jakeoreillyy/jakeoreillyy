@@ -5,6 +5,9 @@
 
 <!-- Social + Counters -->
 <p align="center">
+  <a href="https://www.jakeoreilly.dev">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/jake-o-reilly/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -26,7 +29,7 @@
 ---
 
 ## 🧠 About
-Hey!👋 I'm Jake - into AI and Startups
+Hey!👋 I'm Jake, into AI and Startups
 - 💼 swe intern @ speed-deed
 - 🎓 cs @ tud
 - 🏆 1st @ bofa swe programme · 3rd @ workday hackathon · top 1.5% @ hatch105.
@@ -82,7 +85,7 @@ Hey!👋 I'm Jake - into AI and Startups
 ## 🤝 Get In Touch
 
 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)
-📬 Email: **oreillyjake16@gmail.com**
+📬 [Contact Me](https://www.jakeoreilly.dev/contact)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=2ECC71&fontColor=ffffff" alt="footer" />
