@@ -41,7 +41,7 @@
 ![Databases](https://skills.syvixor.com/api/icons?i=postgresql,mysql,supabase)
 
 ### Developer Tools & Platforms
-![Tools](https://skills.syvixor.com/api/icons?i=git,githubactions,docker,aws,gcp,linux,vercel,heroku)
+![Tools](https://skills.syvixor.com/api/icons?i=git,githubactions,docker,aws,gcp,cloudflare,linux,vercel,heroku)
 
 ---
 
