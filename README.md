@@ -32,7 +32,7 @@
 ## ⛏️ Tech Stack
 
 ### Languages
-![Languages](https://skills.syvixor.com/api/icons?i=python,sql,typescript,javascript,java,php,c)
+![Languages](https://skills.syvixor.com/api/icons?i=python,sql,typescript,java,javascript,kotlin,php,c)
 
 ### Frameworks & Libraries
 ![Frameworks](https://skills.syvixor.com/api/icons?i=fastapi,nodejs,react,sqlalchemy,pytest,tailwind)
