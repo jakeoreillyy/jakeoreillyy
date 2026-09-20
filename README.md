@@ -43,7 +43,7 @@ Top 1.5% @ Hatch105's founder programme<br>
 ![Frameworks](https://skills.syvixor.com/api/icons?i=fastapi,nodejs,react,sqlalchemy,pytest,tailwind)
 
 ### Databases
-![Databases](https://skills.syvixor.com/api/icons?i=postgresql,mysql,supabase)
+![Databases](https://skills.syvixor.com/api/icons?i=postgresql,mysql,mongodb,supabase)
 
 ### Developer Tools & Platforms
 ![Tools](https://skills.syvixor.com/api/icons?i=git,githubactions,docker,aws,gcp,cloudflare,linux,vercel,heroku)
