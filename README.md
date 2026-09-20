@@ -48,7 +48,7 @@
 ## 📊 Activity
 
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=jakeoreillyy&theme=react&hide_border=true&area=true&color=2ECC71&line=2ECC71&point=ffffff" />
+  <img alt="Activity Graph" src="./assets/activity-graph.svg" />
 </div>
 
 ---
