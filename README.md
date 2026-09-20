@@ -22,10 +22,15 @@
 
 ## 🧠 About
 
-- ☁️ Incoming SDE Intern @ AWS (Feb 2027)
-- 💼 SWE Intern @ Speed-Deed
-- 🎓 CS @ TUD
-- 🏆 1st @ BofA SWE Insight Programme · 3rd @ Workday Hackathon · Top 1.5% @ Hatch105
+Currently...<br>
+Incoming SDE Intern @ AWS<br>
+SWE Intern @ Speed-Deed<br>
+CS @ TUD
+
+Recently...<br>
+Top 1.5% @ Hatch105's founder programme<br>
+1st place @ Bank of America Software Engineering Programme<br>
+3rd @ Workday Hackathon - built HushPath, a quieter-routes navigation app
 
 ---
 
@@ -56,6 +61,10 @@
 ## 🤝 Get In Touch
 
 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)
+
+🐦 Find me on [**X**](https://x.com/jakeorei)
+
+📧 Email me at [**oreillyjake16@gmail.com**](mailto:oreillyjake16@gmail.com)
 
 📬 [Contact Me](https://www.jakeoreilly.dev/contact)
 
