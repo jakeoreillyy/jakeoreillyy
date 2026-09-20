@@ -60,13 +60,10 @@ Top 1.5% @ Hatch105's founder programme<br>
 
 ## 🤝 Get In Touch
 
-🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)
-
-🐦 Find me on [**X**](https://x.com/jakeorei)
-
-📧 Email me at [**oreillyjake16@gmail.com**](mailto:oreillyjake16@gmail.com)
-
-📬 [Contact Me](https://www.jakeoreilly.dev/contact)
+🔗 [**LinkedIn**](https://www.linkedin.com/in/jake-o-reilly/)<br>
+🐦 [**X**](https://x.com/jakeorei)<br>
+📧 [**Email**](mailto:oreillyjake16@gmail.com)<br>
+📬 [**Contact Me**](https://www.jakeoreilly.dev/contact)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=2ECC71&fontColor=ffffff" alt="footer" />
