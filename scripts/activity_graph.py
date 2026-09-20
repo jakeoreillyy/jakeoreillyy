@@ -11,6 +11,7 @@ import os
 import urllib.request
 from datetime import date, datetime, timedelta, timezone
 
+SHOW_VALUES = True  # print the count above each point (hover does not work on GitHub)
 GREEN = "#2ECC71"
 MUTED = "#8b949e"
 DAYS = 31
@@ -56,12 +57,14 @@ def fetch_days(login, token):
 
 
 def render(days):
-    W, H = 900, 300
-    L, R, T, B = 60, 24, 24, 56
+    W, H = 900, 318
+    L, R, T, B = 60, 24, 34, 70
     pw, ph = W - L - R, H - T - B
     n = len(days)
     peak = max(c for _, c in days)
-    step = max(1, math.ceil(max(peak, 5) / 5))
+    raw = math.ceil(max(peak, 5) / 5)
+    steps = sorted(b * 10**k for k in range(0, 7) for b in (1, 2, 3, 4, 5, 6, 8))
+    step = next(s for s in steps if s >= raw)
     ymax = step * 5
 
     def px(i):
@@ -85,16 +88,19 @@ def render(days):
         out.append(f'<line x1="{L}" y1="{y:.1f}" x2="{W - R}" y2="{y:.1f}" stroke="{MUTED}" stroke-opacity="0.25" stroke-width="1"/>')
         out.append(f'<text x="{L - 10}" y="{y + 4:.1f}" text-anchor="end">{v}</text>')
     for i, (d, _) in enumerate(days):
-        if i % 5 == 0 or i == n - 1:
-            x = px(i)
-            out.append(f'<line x1="{x:.1f}" y1="{T}" x2="{x:.1f}" y2="{T + ph}" stroke="{MUTED}" stroke-opacity="0.12" stroke-width="1"/>')
-            out.append(f'<text x="{x:.1f}" y="{T + ph + 20}" text-anchor="middle">{d.strftime("%b")} {d.day}</text>')
+        x = px(i)
+        out.append(f'<text x="{x:.1f}" y="{T + ph + 20}" text-anchor="middle">{d.day}</text>')
+        if i == 0 or d.day == 1:
+            out.append(f'<text x="{x:.1f}" y="{T + ph + 36}" text-anchor="middle" font-size="11">{d.strftime("%b")}</text>')
     out.append(f'<text x="{L + pw / 2:.1f}" y="{H - 10}" text-anchor="middle">Days</text>')
     out.append(f'<text transform="translate(16 {T + ph / 2:.1f}) rotate(-90)" text-anchor="middle">Contributions</text>')
     out.append(f'<path d="{area}" fill="{GREEN}" fill-opacity="0.2"/>')
     out.append(f'<polyline points="{line}" fill="none" stroke="{GREEN}" stroke-width="2" stroke-linejoin="round"/>')
     for (x, y), (d, c) in zip(pts, days):
         out.append(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3.5" fill="#fff" stroke="{GREEN}" stroke-width="2"><title>{d.isoformat()}: {c}</title></circle>')
+    if SHOW_VALUES:
+        for (x, y), (_, c) in zip(pts, days):
+            out.append(f'<text x="{x:.1f}" y="{y - 9:.1f}" text-anchor="middle" font-size="11">{c}</text>')
     out.append("</svg>")
     return "\n".join(out)
 
